@@ -11,6 +11,8 @@ namespace ConsoleApplication1
     class Program
 
     {
+        //Link to Git
+        //https://github.com/zwet/c_sharp.git
         public static void SearchFilename(DateTime modificationsDate, DateTime createDate, DateTime accessDate, int filesize = 0,
                                           string filename = "*",
                                           string path = @"C:\Users\\Natallia_Tsviatkova\\Documents\\GitHub\\c_sharp"
